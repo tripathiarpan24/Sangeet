@@ -11,5 +11,7 @@ music properly without interference from advertisements and offline.
 
 
 #Screenshots
+https://user-images.githubusercontent.com/108086747/209533941-36d57752-8177-4aaf-b6b4-9ad908551c58.png
 https://user-images.githubusercontent.com/108086747/209534150-bb46977e-eafe-444b-b860-60125db988ee.png
+https://user-images.githubusercontent.com/108086747/209534210-6408faa9-c884-42bf-bec2-6d3697b31060.png
 
